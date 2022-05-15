@@ -1,4 +1,5 @@
 stedi-content-main.zip
 *.docx
-*.DS
+*.DS_Store
+.vscode
 
